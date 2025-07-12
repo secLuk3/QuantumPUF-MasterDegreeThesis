@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Optional: other common macOS metadata files
+.AppleDouble
+.LSOverride
+
+# Optional: macOS folder attributes
+Icon?
+._*
+
+# Thumbnails
+._.DS_Store
+
+# Spotlight and Finder
+.Spotlight-V100
+.Trashes
+
